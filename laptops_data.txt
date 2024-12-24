@@ -1,0 +1,10 @@
+Dell,  XPS 15   ,1500.00,SN200001,Intel Core i7,16
+Apple,      MacBook Pro 16,       2399.00,SN200002,Apple M1 Pro,16
+Lenovo,ThinkPad X1 Carbon,            1800.00,SN200003,Intel Core i7,16
+HP,Spectre x360,1600.00,        SN200004         ,Intel Core i7,16
+Asus,ROG Zephyrus G14,1450.00,       SN200005  ,AMD Ryzen 9,16
+Acer,Swift 3,679.99,SN200006,AMD Ryzen 7,8
+Microsoft,Surface Laptop 4,  999.99  ,SN200007,Intel Core i5,8
+Razer,  Blade 15,2600.00,SN200008,   Intel Core i7   ,32
+  MSI,GS66 Stealth,     2200.00,    SN200009,    Intel Core i7,    32           
+     Samsung,      Galaxy Book Pro,1200.00,SN200010,Intel Core i5     ,     8

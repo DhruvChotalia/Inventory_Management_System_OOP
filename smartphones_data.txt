@@ -1,0 +1,10 @@
+Samsung,  Galaxy S21,999.99,SN123456,Android,128,  4000
+Apple, iPhone 12,1099.00,SN789101,iOS,256,  2815
+Google, Pixel 5, 699.99 ,SN112233,Android, 128,  4080
+OnePlus,9 Pro,969.00, SN445566,Android, 256,4500
+Xiaomi,Mi 11, 749.99, SN778899,Android, 128 ,4600
+Motorola,Edge 20,499.99,SN998877,  Android      ,128,5000
+Sony,Xperia 5 II,899.99,SN665544,  Android      ,128,4000
+LG,Velvet,         599.99      ,      SN332211, Android, 128  ,4300
+Nokia,8.3 5G,649.99,      SN556677,Android,  128  ,4500
+Huawei,P40 Pro,999.99,       SN224466       ,Android,256,4200
